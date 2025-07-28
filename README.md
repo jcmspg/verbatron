@@ -5,14 +5,14 @@
 </div>
 
 <p align="center">
-  <strong>A lightweight, terminal-based text editor inspired by vim, built in C with a focus on simplicity and performance.</strong>
+  <strong>A lightweight, terminal-based text editor inspired by vim, built in C with a focus on simplicity and performan
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#commands">Commands</a> •
+  <a href="#features">Features</a>
+  <a href="#installation">Installation</a>
+  <a href="#usage">Usage</a>
+  <a href="#commands">Commands</a>
   <a href="#license">License</a>
 </p>
 
@@ -142,7 +142,7 @@ Press `ESC` to enter command mode. You'll see a `:` prompt at the bottom of the 
 
 ### Architecture
 
-- **Buffer Size**: 1000 rows × 120 columns
+- **Buffer Size**: 1000 rows  120 columns
 - **Display**: Dynamic window sizing (adapts to terminal)
 - **Memory**: Static allocation for predictable performance
 - **I/O**: Raw terminal mode for immediate key response
@@ -183,19 +183,19 @@ make fclean
 
 ```
 VERBATRON/
-├── includes/
-│   ├── editor.h        # Function declarations
-│   ├── includes.h      # System includes
-│   └── typedefs.h      # Type definitions and constants
-├── srcs/
-│   ├── editor.c        # Core editor functions
-│   ├── input.c         # Input handling and display
-│   ├── main.c          # Program entry point
-│   └── term.c          # Terminal management
-├── obj/                # Object files (generated)
-├── Makefile           # Build configuration
-├── README.md          # This file
-└── verbatron.txt      # Splash screen content
+ includes/
+    editor.h        # Function declarations
+    includes.h      # System includes
+    typedefs.h      # Type definitions and constants
+ srcs/
+    editor.c        # Core editor functions
+    input.c         # Input handling and display
+    main.c          # Program entry point
+    term.c          # Terminal management
+ obj/                # Object files (generated)
+ Makefile           # Build configuration
+ README.md          # This file
+ verbatron.txt      # Splash screen content
 ```
 
 ### Compilation Flags
@@ -232,3 +232,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **VERBATRON** - Simple, fast, distraction-free editing.
+
+. this readme was written in verbatron !!!!!!
