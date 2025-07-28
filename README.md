@@ -1,5 +1,4 @@
-# VERBATRON
-
+---
 <div align="center">
   <img src="assets/verbatron-banner.svg" alt="VERBATRON Banner" width="900"/>
 </div>
