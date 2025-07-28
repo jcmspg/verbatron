@@ -70,13 +70,13 @@ make
 Start VERBATRON:
 
 ```bash
-./project_name
+./VERBATRON(or whatever you may call it)
 ```
 
 Open a specific file:
 
 ```bash
-./project_name filename.txt
+./VERBATRON(or whatever you may call it) filename.txt
 ```
 
 ### Opening Files
