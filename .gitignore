@@ -1,0 +1,121 @@
+<!-- filepath: VERBATRON/.gitignore -->
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executables
+verbatron
+a.out
+
+# Build directories
+obj/
+build/
+dist/
+
+# Library files
+*.a
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# Editor backups
+.*.swp
+.*.swo
+*~
+*.bak
+*.orig
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux files
+.directory
+.Trash-*
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+debug.log
+error.log
+
+# Test files
+test_*
+*_test
+test/
+tests/output/
+
+# Coverage files
+*.gcov
+*.gcno
+*.gcda
+coverage/
+
+# Valgrind output
+valgrind-out.txt
+*.memcheck
+
+# Documentation build
+docs/_build/
+*.pdf
+
+# Backup files
+*.backup
+output.txt.bak
+
+# Environment files
+.env
+.env.local
+
+# Dependency directories
+deps/
+vendor/
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# CMake files (if you ever switch)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Autotools (if you ever use them)
+autom4te.cache/
+config.log
+config.status
+configure
+Makefile.in
+
+# Man pages
+*.1
+*.3
+*.8

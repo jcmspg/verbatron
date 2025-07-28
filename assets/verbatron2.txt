@@ -1,0 +1,21 @@
+\n
+VERSION 0.1\n
+\n
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////\n
+//                                                                                                            //\n
+//                                                                                                            //\n
+//`7MMF'   `7MF'`7MM"""YMM  `7MM"""Mq.  `7MM"""Yp,      db   MMP""MM""YMM `7MM"""Mq.   .g8""8q. `7MN.   `7MF' //\n
+//  `MA     ,V    MM    `7    MM   `MM.   MM    Yb     ;MM:  P'   MM   `7   MM   `MM..dP'    `YM. MMN.    M   //\n
+//   VM:   ,V     MM   d      MM   ,M9    MM    dP    ,V^MM.      MM        MM   ,M9 dM'      `MM M YMb   M   //\n
+//    MM.  M'     MMmmMM      MMmmdM9     MM"""bg.   ,M  `MM      MM        MMmmdM9  MM        MM M  `MN. M   //\n
+//    `MM A'      MM   Y  ,   MM  YM.     MM    `Y   AbmmmqMA     MM        MM  YM.  MM.      ,MP M   `MM.M   //\n
+//     :MM;       MM     ,M   MM   `Mb.   MM    ,9  A'     VML    MM        MM   `Mb.`Mb.    ,dP' M     YMM   //\n
+//      VF      .JMMmmmmMMM .JMML. .JMM..JMMmmmd9 .AMA.   .AMMA..JMML.    .JMML. .JMM. `"bmmd"' .JML.    YM   //\n
+//                                                                                                            //\n
+//                                                                                                            //\n
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////\n
+\n
+\n
+
+2025
+author: joao gomes
