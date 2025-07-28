@@ -233,4 +233,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **VERBATRON** - Simple, fast, distraction-free editing.
 
-. this readme was written in verbatron !!!!!!
+- this readme was written with VERBATRON v1.0
