@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <strong>A lightweight, terminal-based text editor inspired by vim, built in C with a focus on simplicity and performan
+  <strong>A lightweight, terminal-based text editor inspired by vim, built in C with a focus on simplicity and performance 
 </p>
 
 <p align="center">
@@ -151,7 +151,6 @@ Press `ESC` to enter command mode. You'll see a `:` prompt at the bottom of the 
 ### File Format Support
 
 - Plain text files
-- Handles tabs (converted to 4 spaces)
 - Unix line endings
 - Printable ASCII characters (32-126)
 
