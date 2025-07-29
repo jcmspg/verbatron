@@ -16,7 +16,9 @@
 </p>
 
 ---
-
+## DISCLAIMER
+this is a learning project! dont take it too serious. Also, any contributions would be welcome
+---
 ## Table of Contents
 
 - [Features](#features)
